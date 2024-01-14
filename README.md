@@ -1,2 +1,3 @@
 # presidentes_ig
-Repositorio para el monitoreo de figuras presidenciales en Argentina.
+Repositorio abierto para el monitoreo en instagram de figuras presidenciales argentinas.
+
